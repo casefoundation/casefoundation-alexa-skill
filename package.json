@@ -12,6 +12,7 @@
     "alexa-sdk": "^1.0.22",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "fast-levenshtein": "^2.0.6",
     "fs-extra": "^5.0.0",
     "jimp": "^0.2.28",
     "md5": "^2.2.1",
